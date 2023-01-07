@@ -1,6 +1,6 @@
-# Snake-Game
+## Snake-Game
 The classic snake game. Made with pygame.
 
-# Requirements
+## Requirements
 - Python 3.x
 - pygame
